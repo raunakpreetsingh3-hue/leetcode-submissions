@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0867-transpose-matrix) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0493-reverse-pairs](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
