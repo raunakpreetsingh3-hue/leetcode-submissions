@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1539-kth-missing-positive-number) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2965-find-missing-and-repeated-values](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [2965-find-missing-and-repeated-values](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,10 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0867-transpose-matrix) |
+| [2965-find-missing-and-repeated-values](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0048-rotate-image) |
+| [2965-find-missing-and-repeated-values](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2965-find-missing-and-repeated-values) |
 ## Prefix Sum
 |  |
 | ------- |
