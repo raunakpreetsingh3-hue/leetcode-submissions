@@ -94,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0118-pascals-triangle) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
