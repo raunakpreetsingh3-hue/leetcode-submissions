@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0128-longest-consecutive-sequence](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0169-majority-element) |
 | [0867-transpose-matrix](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0867-transpose-matrix) |
@@ -56,5 +57,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0867-transpose-matrix) |
+## Math
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
