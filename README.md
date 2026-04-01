@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0015-3sum) |
 | [0048-rotate-image](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0118-pascals-triangle](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0118-pascals-triangle) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0229-majority-element-ii) |
 ## Counting
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0015-3sum) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
 |  |
