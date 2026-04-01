@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0128-longest-consecutive-sequence](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0169-majority-element) |
+| [0560-subarray-sum-equals-k](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0048-rotate-image) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
