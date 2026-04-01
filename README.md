@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0229-majority-element-ii) |
+| [0493-reverse-pairs](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0867-transpose-matrix](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0493-reverse-pairs) |
 | [0875-koko-eating-bananas](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -104,4 +107,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0177-nth-highest-salary) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
