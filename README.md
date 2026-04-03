@@ -192,4 +192,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
