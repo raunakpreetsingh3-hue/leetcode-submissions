@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0069-sqrtx) |
+| [1903-largest-odd-number-in-string](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2965-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Prefix Sum
@@ -193,11 +194,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
