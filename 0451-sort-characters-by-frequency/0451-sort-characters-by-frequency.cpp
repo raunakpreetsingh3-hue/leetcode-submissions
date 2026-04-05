@@ -5,13 +5,17 @@ public:
         for(int i=0;i<s.size();i++){
             mp[s[i]]++;
         }
-        vector<pair<char,int>>v(mp.begin(),mp.end());
-        sort(v.begin(),v.end(),[](auto&a,auto&b){
-            return a.second>b.second;
-        });
+        vector<vector<char>>v(s.size()+1);
+        for(auto &it:mp ){
+            int freq=it.second;
+            char ch=it.first;
+            v[freq].emplace_back(ch);
+        }
         string temp="";
-        for(int i=0;i<v.size();i++){
-            temp+=string(v[i].second,v[i].first);
+        for(int i=s.size();i>=1;i--){
+            for(char ch:v[i]){
+                temp+=string(i,ch);
+            }
         }  
         return temp;
     }
