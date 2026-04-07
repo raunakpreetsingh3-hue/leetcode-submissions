@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Simulation
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0008-string-to-integer-atoi](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0242-valid-anagram) |
