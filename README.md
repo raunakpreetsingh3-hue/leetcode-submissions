@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
+| [3110-score-of-a-string](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/3110-score-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Stack
 |  |
