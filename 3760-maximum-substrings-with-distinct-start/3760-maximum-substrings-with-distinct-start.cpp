@@ -5,7 +5,6 @@ public:
         for(int i=0;i<s.size();i++){
             st.insert(s[i]);
         }
-        int ans=st.size();
-        return ans;
+        return st.size();
     }
 };
