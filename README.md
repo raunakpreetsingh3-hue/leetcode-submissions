@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0125-valid-palindrome](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2396-strictly-palindromic-number](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2396-strictly-palindromic-number) |
 ## Simulation
 |  |
 | ------- |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0069-sqrtx) |
 | [1903-largest-odd-number-in-string](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
+| [2396-strictly-palindromic-number](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2965-find-missing-and-repeated-values) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -263,4 +265,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0237-delete-node-in-a-linked-list) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
