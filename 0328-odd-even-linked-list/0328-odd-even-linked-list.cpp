@@ -31,6 +31,9 @@ public:
             temp=temp->next;
         }
         oddtail->next=dummy2->next;
-        return dummy1->next;
+        ListNode* ans=dummy1->next;
+        delete dummy1;
+        delete dummy2;
+        return ans;
     }
 };
