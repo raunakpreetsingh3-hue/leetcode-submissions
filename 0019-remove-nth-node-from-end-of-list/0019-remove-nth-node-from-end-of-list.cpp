@@ -15,6 +15,7 @@ public:
         ListNode* fast=head;
         ListNode* slow=head;
         for(int i=0;i<n;i++){
+            if(fast==nullptr) return head;
             fast=fast->next;
         }
         if(fast==nullptr){
