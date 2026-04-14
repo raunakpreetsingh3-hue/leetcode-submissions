@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0234-palindrome-linked-list](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2396-strictly-palindromic-number) |
 ## Simulation
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Greedy
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0002-add-two-numbers](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0328-odd-even-linked-list) |
 ## Brainteaser
