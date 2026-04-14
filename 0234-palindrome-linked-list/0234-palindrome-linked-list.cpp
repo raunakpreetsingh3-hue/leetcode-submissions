@@ -10,20 +10,40 @@
  */
 class Solution {
 public:
-    bool isPalindrome(ListNode* head) {
-        vector<int>el;
+    bool isPalindrome(ListNode* head){
+        if(head==nullptr || head->next==nullptr) return true;
+        ListNode* slow=head;
+        ListNode* fast=head;
+        while(fast->next!=nullptr && fast->next->next!=nullptr){
+            slow=slow->next;
+            fast=fast->next->next;
+        }
+        ListNode* newhead=slow->next;
+        ListNode* prev=nullptr;
+        while(newhead){
+            ListNode* nextel=newhead->next;
+            newhead->next=prev;
+            prev=newhead;
+            newhead=nextel;
+        }
+        ListNode* secondhead=prev;
         ListNode* temp=head;
-        while(temp){
-            el.push_back(temp->val);
+        bool ispalin=true;
+        while(prev){
+            if(prev->val!=temp->val){
+                ispalin=false;
+                break;
+            }
+            prev=prev->next;
             temp=temp->next;
         }
-        int j=el.size()-1;
-        int i=0;
-        while(i<=j){
-            if(el[i]!=el[j]) return false;
-            j--;
-            i++;
+        prev=nullptr;
+        while(secondhead){
+            ListNode* nextel=secondhead->next;
+            secondhead->next=prev;
+            prev=secondhead;
+            secondhead=nextel;
         }
-        return true;
+        return ispalin;
     }
 };
