@@ -9,19 +9,16 @@
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
-        map<ListNode*,int>mp;
+        unordered_set<ListNode*>st;
         ListNode* temp1=headA;
         ListNode* temp2=headB;
         while(temp1){
-            mp[temp1]++;
+            st.insert(temp1);
             temp1=temp1->next;
         }
         while(temp2){
-            mp[temp2]++;
+            if(st.count(temp2)) return temp2;
             temp2=temp2->next;
-        }
-        for(auto it : mp){
-            if(it.second==2) return it.first;
         }
         return 0;
     }
