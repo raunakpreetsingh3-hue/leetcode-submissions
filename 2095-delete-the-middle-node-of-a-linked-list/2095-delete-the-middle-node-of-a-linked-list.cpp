@@ -14,13 +14,13 @@ public:
         if(head==nullptr || head->next==nullptr) return nullptr;
         ListNode* slow=head;
         ListNode* fast=head;
-        ListNode* temp=head;
+        ListNode* prev=nullptr;
         while(fast && fast->next){
+            prev=slow;
             slow=slow->next;
             fast=fast->next->next;
-            if(temp->next->next==slow) temp=temp->next;
         }
-        temp->next=slow->next;
+        prev->next=slow->next;
         delete slow;
         return head;
     }
