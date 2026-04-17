@@ -3,9 +3,11 @@ public:
     bool isPalindrome(int x) {
         string s=to_string(x);
         int j=s.size()-1;
-        for(int i=0;i<s.size();i++){
+        int i=0;
+        while(i<=j){
             if(s[i]!=s[j]) return false;
             j--;
+            i++;
         }
         return true;
     }
