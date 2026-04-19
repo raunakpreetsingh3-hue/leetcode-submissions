@@ -21,11 +21,12 @@ public:
         if(k%cnt==0) return head;
         k=k%cnt;
         counter->next=head;
+        ListNode* temp=head;
         for(int i=0;i<cnt-k-1;i++){
-            head=head->next;
+            temp=temp->next;
         }
-        ListNode* newhead=head->next;
-        head->next=nullptr;
+        ListNode* newhead=temp->next;
+        temp->next=nullptr;
         return newhead;
     }
 };
