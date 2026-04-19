@@ -14,23 +14,19 @@ public:
         if(head==nullptr || head->next==nullptr || k==0) return head;
         ListNode* counter=head;
         int cnt=0;
-        while(counter){
+        while(counter->next){
             cnt++;
             counter=counter->next;
         }
+        cnt=cnt+1;
         if(k%cnt==0) return head;
         k=k%cnt;
-        for(int i=0;i<k;i++){
-            ListNode* temp=head;
-            while(temp->next->next){
-                temp=temp->next;
-            }
-            ListNode* prev=temp;
-            temp=temp->next;
-            prev->next=nullptr;
-            temp->next=head;
-            head=temp;
+        counter->next=head;
+        for(int i=0;i<cnt-k-1;i++){
+            head=head->next;
         }
-        return head;
+        ListNode* newhead=head->next;
+        head->next=nullptr;
+        return newhead;
     }
 };
