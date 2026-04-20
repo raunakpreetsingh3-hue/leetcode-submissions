@@ -11,14 +11,12 @@
 class Solution {
 public:
     int gcd(int a,int b){
-        int x=max(a,b);
-        int ans=1;
-        for(int i=1;i<=x;i++){
-            if(a%i==0 && b%i==0){
-                ans=i;
-            }
+        while(b!=0){
+            int temp=b;
+            b=a%b;
+            a=temp;
         }
-        return ans;
+        return a;
     }
     ListNode* insertGreatestCommonDivisors(ListNode* head) {
         if(head==nullptr || head->next==nullptr) return head;
