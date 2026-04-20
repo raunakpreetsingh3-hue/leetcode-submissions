@@ -23,10 +23,10 @@ public:
         ListNode* temp=head->next;
         ListNode* prev=head;
         while(temp){
-            int getans=gcd(prev->val,temp->val);
-            ListNode* put=new ListNode(getans);
-            prev->next=put;
-            put->next=temp;
+            int g=gcd(prev->val,temp->val);
+            ListNode* newnode=new ListNode(g);
+            prev->next=newnode;
+            newnode->next=temp;
             temp=temp->next;
             prev=prev->next->next;
         }
