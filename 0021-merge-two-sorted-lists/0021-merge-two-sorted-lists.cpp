@@ -15,30 +15,16 @@ public:
         ListNode* newll=merged;
         while(list1 && list2){
             if(list1->val<=list2->val){
-                ListNode* temp=new ListNode(list1->val);
-                merged->next=temp;
-                merged=temp;
+                merged->next=list1;
                 list1=list1->next;
             }
             else {
-                ListNode* temp=new ListNode(list2->val);
-                merged->next=temp;
-                merged=temp;
+                merged->next=list2;
                 list2=list2->next;
             }
+            merged=merged->next;
         }
-        while(list1){
-            ListNode* temp=new ListNode(list1->val);
-            merged->next=temp;
-            merged=temp;
-            list1=list1->next;
-        }
-        while(list2){
-            ListNode* temp=new ListNode(list2->val);
-            merged->next=temp;
-            merged=temp;
-            list2=list2->next;
-        }
+        merged->next= list1 ? list1 : list2;
         return newll->next;
     }
 };
