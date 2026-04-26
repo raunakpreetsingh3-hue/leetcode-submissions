@@ -34,9 +34,8 @@ public:
         Node* copied=temp->next;
         Node* copyhead=copied;
         while(temp){
-            temp->next=temp->next->next ? temp->next->next : nullptr;
-            if(temp->next==nullptr) copied->next=nullptr;
-            else copied->next=temp->next->next;
+            temp->next=temp->next->next;
+            copied->next=copied->next ? copied->next->next: nullptr;
             copied=copied->next;
             temp=temp->next;
         }
