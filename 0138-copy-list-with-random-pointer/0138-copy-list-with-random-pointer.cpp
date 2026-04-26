@@ -17,6 +17,7 @@ public:
 class Solution {
 public:
     Node* copyRandomList(Node* head) {
+        if(head==nullptr) return head;
         map<Node*,Node*>mp;
         Node* temp=head;
         while(temp){
