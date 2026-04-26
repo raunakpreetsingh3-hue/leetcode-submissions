@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0875-koko-eating-bananas](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1472-design-browser-history](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1472-design-browser-history) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1021-remove-outermost-parentheses) |
+| [1472-design-browser-history](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0237-delete-node-in-a-linked-list](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
@@ -318,4 +321,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
