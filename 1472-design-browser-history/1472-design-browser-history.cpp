@@ -18,8 +18,9 @@ public:
     
     void visit(string url) {
         node* newnode=new node(url);
-        current->next=newnode;
+        current->next=nullptr;
         newnode->back=current;
+        current->next=newnode;
         current=newnode;
     }
     
