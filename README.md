@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1552-magnetic-force-between-two-balls](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1552-magnetic-force-between-two-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2965-find-missing-and-repeated-values) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Matrix
 |  |
