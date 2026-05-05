@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
 | [2396-strictly-palindromic-number](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2396-strictly-palindromic-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0118-pascals-triangle](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0509-fibonacci-number) |
 ## Database
 |  |
 | ------- |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0025-reverse-nodes-in-k-group](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
+| [0509-fibonacci-number](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -344,4 +347,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1472-design-browser-history) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
