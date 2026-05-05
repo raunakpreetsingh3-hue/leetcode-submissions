@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0493-reverse-pairs](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0875-koko-eating-bananas) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2965-find-missing-and-repeated-values) |
 | [3668-restore-finishing-order](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/3668-restore-finishing-order) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0645-set-mismatch) |
 | [1552-magnetic-force-between-two-balls](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Counting
 |  |
@@ -355,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
