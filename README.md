@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2643-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2965-find-missing-and-repeated-values) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/3668-restore-finishing-order) |
 ## Binary Search
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2769-find-the-maximum-achievable-number](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2965-find-missing-and-repeated-values) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3783-mirror-distance-of-an-integer](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/3783-mirror-distance-of-an-integer) |
 ## Prefix Sum
