@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0125-valid-palindrome) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0205-isomorphic-strings) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0796-rotate-string) |
 ## Heap (Priority Queue)
 |  |
