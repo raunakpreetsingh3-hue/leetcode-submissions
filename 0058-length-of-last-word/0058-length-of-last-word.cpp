@@ -1,7 +1,6 @@
 class Solution {
 public:
     int lengthOfLastWord(string s) {
-        string ans="";
         int count=0;
         int on=0;
         for(int i=0;i<s.size();i++){
