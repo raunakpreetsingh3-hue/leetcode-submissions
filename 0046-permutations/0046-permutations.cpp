@@ -1,27 +1,20 @@
 class Solution {
 public:
-    void storage(vector<int>&nums,vector<int>&ds,vector<vector<int>>&ans,vector<int>&freq){
-        if(ds.size()==nums.size()) {
-            ans.push_back(ds);
+    void storage(int ind,vector<int>&nums,vector<vector<int>>&ans){
+        if(ind==nums.size()) {
+            ans.push_back(nums);
             return;
         }
-        for(int i=0;i<nums.size();i++){
-            if(!freq[i]){
-                ds.push_back(nums[i]);
-                freq[i]=1;
-            } 
-            else continue;
-            storage(nums,ds,ans,freq);
-            freq[i]=0;
-            ds.pop_back();
+        for(int i=ind;i<nums.size();i++){
+            swap(nums[i],nums[ind]);
+            storage(ind+1,nums,ans);
+            swap(nums[i],nums[ind]);
         }
     }
     vector<vector<int>> permute(vector<int>& nums) {
         vector<int>ds;
         vector<vector<int>>ans;
-        int n=nums.size();
-        vector<int>freq(n,0);
-        storage(nums,ds,ans,freq);
+        storage(0,nums,ans);
         return ans;
     }
 };
