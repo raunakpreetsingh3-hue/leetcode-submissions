@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/1903-largest-odd-number-in-string) |
 | [2396-strictly-palindromic-number](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/2396-strictly-palindromic-number) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0025-reverse-nodes-in-k-group](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0509-fibonacci-number) |
 ## Greedy
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/raunakpreetsingh3-hue/leetcode-submissions/tree/master/0645-set-mismatch) |
 ## Backtracking
 |  |
