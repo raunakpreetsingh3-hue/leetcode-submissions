@@ -1,22 +1,16 @@
 class Solution {
 public:
-    void solve(int ind,vector<int>& nums,vector<int>& array,vector<vector<int>>& ans){
-        if(ind==nums.size()){
-            ans.push_back(array);
-            return;
-        }
-
-        //pick
-        array.push_back(nums[ind]);
-        solve(ind+1,nums,array,ans);
-        array.pop_back();
-        solve(ind+1,nums,array,ans);
-        
-    }
     vector<vector<int>> subsets(vector<int>& nums) {
+        vector<int>sets;
         vector<vector<int>>ans;
-        vector<int>array;
-        solve(0,nums,array,ans);
+        int t=1<<nums.size();
+        for(int i=0;i<t;i++){
+            for(int j=0;j<nums.size();j++){
+                if(i & (1<<j)) sets.push_back(nums[j]);
+            }
+            ans.push_back(sets);
+            sets.clear();
+        }
         return ans;
     }
 };
